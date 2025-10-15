@@ -63,12 +63,12 @@ Here are some ideas to get you started:
 #### 🔥 Forest Fire Detection using Deep Learning  
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
 **Tech Used:** Python, TensorFlow, Keras, OpenCV  
-📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) *(add later)*  
+📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
 
 #### ♻️ Smart Waste Management System  
 A web-based solution for efficient waste management through real-time tracking, reporting, and analytics.  
 **Tech Used:** HTML, CSS, Python, FastAPI, MySQL  
-📂 [View Project Repository](https://github.com/Harshitpant12/Smart-Waste-Management) *(add later)*  
+<!--📂 [View Project Repository](https://github.com/Harshitpant12/Smart-Waste-Management) -->
 
 ---
 
