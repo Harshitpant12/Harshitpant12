@@ -76,7 +76,7 @@ A web-based solution for efficient waste management through real-time tracking, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitpant12&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Harshitpant12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpant12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
