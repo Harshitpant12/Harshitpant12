@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 **Harshitpant12/Harshitpant12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- 🌟 GitHub Profile README for Harshit Pant -->
+ 🌟 GitHub Profile README for Harshit Pant -->
 
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
 <h3 align="center">Aspiring Software Developer | Machine Learning Enthusiast</h3>
