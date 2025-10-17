@@ -75,19 +75,19 @@ A web-based solution for efficient waste management through real-time tracking, 
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Harshitpant12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshitpant12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpant12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&show_icons=true&theme=tokyonight" alt="Harshit Pant's GitHub Stats" height="165" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Harshitpant12&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpant12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-
-
+</p> -->
 ---
 
 ### 🤝 Connect With Me  
