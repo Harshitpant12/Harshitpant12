@@ -1,4 +1,3 @@
-<!--
 ## Hi there 👋
 
 **Harshitpant12/Harshitpant12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <!-- 🌟 GitHub Profile README for Harshit Pant -->
 
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
@@ -49,7 +48,6 @@ Here are some ideas to get you started:
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
-
 #### 🧰 Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
@@ -65,7 +63,7 @@ Here are some ideas to get you started:
 
 #### 🔥 Forest Fire Detection using Deep Learning  
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
-**Tech Used:** Python, TensorFlow, Keras, OpenCV  
+**Tech Used:** Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
 
 #### ♻️ Smart Waste Management System  
@@ -86,7 +84,6 @@ A web-based solution for efficient waste management through real-time tracking, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpant12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 🤝 Connect With Me  
@@ -105,4 +102,4 @@ A web-based solution for efficient waste management through real-time tracking, 
 
 ---
 
-⭐️ *“Code. Learn. Improve. Repeat.”*  
+⭐️ *“Code. Learn. Improve. Repeat.”*
