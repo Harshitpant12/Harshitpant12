@@ -86,9 +86,7 @@ A web-based solution for efficient waste management through real-time tracking, 
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=Pratyush2004-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pratyush2004-oss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush2004-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
