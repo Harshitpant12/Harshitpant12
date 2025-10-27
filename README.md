@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
  🌟 GitHub Profile README for Harshit Pant -->
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
-<h3 align="center">Aspiring Software Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack Developer</h3>
 <p align="center">"Turning ideas into code and challenges into opportunities 🚀"</p>
 
 ---
 
 ### 👨‍💻 About Me  
 🎓 I'm pursuing **B.Tech in Computer Science & Engineering** from *Nanhi Pari Seemant Engineering Institute, Uttarakhand* (Batch 2026).  
-💡 I’m passionate about **Machine Learning, Deep Learning, and Full-Stack Development**.  
-🧠 Currently working on projects like **Forest Fire Detection using Deep Learning** & **Smart Waste Management System**.  
+💡 I’m passionate about **Software Development, and Full-Stack Development**.  
+🧠 Currently working on projects like **Weather Website** & **Smart Waste Management System**.  
 🚀 Always exploring new technologies and building real-world solutions.  
 
 ---
@@ -39,9 +39,15 @@ Here are some ideas to get you started:
 #### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![DOM](https://img.shields.io/badge/DOM-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005C84?style=for-the-badge&logo=http&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 #### 🧩 Frameworks & Libraries  
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
