@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 #### 🧩 Frameworks & Libraries  
-
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -69,15 +69,15 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
+#### 🌦️ WeDerNow – Real-Time Weather Dashboard  
+An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
+**Tech Used:** HTML, CSS, JavaScript  
+📂 [View Project Repository](https://github.com/Harshitpant12/Wedernow)
+
 #### 🔥 Forest Fire Detection using Deep Learning  
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
 **Tech Used:** Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
-
-#### ♻️ Smart Waste Management System  
-A web-based solution for efficient waste management through real-time tracking, reporting, and analytics.  
-**Tech Used:** HTML, CSS, Python, FastAPI, MySQL  
-<!--📂 [View Project Repository](https://github.com/Harshitpant12/Smart-Waste-Management) -->
 
 ---
 
