@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 #### 🗄️ Databases  
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
