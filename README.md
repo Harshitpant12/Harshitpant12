@@ -70,12 +70,17 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
-#### 🌦️ WeDerNow – Real-Time Weather Dashboard  
+#### Craftolio - A Portfolio Builder
+A clean, customizable portfolio builder that lets users showcase their work with ease. Designed with a structured layout and modern UI, Craftolio helps developers present their projects, skills, and experience in an elegant, professional format — all without complex setup.
+Tech Used: HTML, CSS (Tailwind), JavaScript
+📂 [View Project Repository](https://github.com/Harshitpant12/Craftolio-Portfolio_Builder)
+
+#### WeDerNow – Real-Time Weather Dashboard  
 An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
 **Tech Used:** HTML, CSS, JavaScript  
 📂 [View Project Repository](https://github.com/Harshitpant12/Wedernow)
 
-#### 🔥 Forest Fire Detection using Deep Learning  
+#### Forest Fire Detection using Deep Learning  
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
 **Tech Used:** Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
