@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76d04b?style=for-the-badge&logo=nodemon&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
@@ -73,6 +74,7 @@ Here are some ideas to get you started:
 #### Craftolio - A Portfolio Builder
 A clean, customizable portfolio builder that lets users showcase their work with ease. Designed with a structured layout and modern UI, Craftolio helps developers present their projects, skills, and experience in an elegant, professional format — all without complex setup.
 Tech Used: HTML, CSS (Tailwind), JavaScript
+
 📂 [View Project Repository](https://github.com/Harshitpant12/Craftolio-Portfolio_Builder)
 
 #### WeDerNow – Real-Time Weather Dashboard  
@@ -88,10 +90,10 @@ Detects and classifies forest fire regions using Convolutional Neural Networks (
 ---
 
 ### 📊 GitHub Stats  
-<p align ="center">
+<!-- <p align ="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
-<br/>
+<br/> -->
 <p align ="center">
 <img src="https://nirzak-streak-stats.vercel.app/?user=Harshitpant12&theme=dark&hide_border=false">
 </p>
@@ -102,13 +104,6 @@ Detects and classifies forest fire regions using Convolutional Neural Networks (
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&show_icons=true&theme=tokyonight" alt="Harshit Pant's GitHub Stats" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Harshitpant12&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitpant12&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p> -->
 
 
 ### 🤝 Connect With Me  
