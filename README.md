@@ -72,9 +72,20 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
+#### RunIt – Online Coding Environment (IDE)
+A powerful, browser-based coding environment that allows users to write, run, and test code instantly without any local setup. RunIt supports multiple programming languages and provides a smooth, editor-like experience using modern tools — making it ideal for practice, learning, and quick experimentation.
+**Tech Used**: HTML, CSS, JavaScript, React.js
+Features:
+ - Supports 4 languages: Python, C++, Java, JavaScript
+ - Code editor powered by CodeMirror
+ - Real-time code execution using Judge0 API
+ - Clean, responsive UI for a seamless coding experience
+
+📂 [View Project Repository](https://github.com/Harshitpant12/RunIt)
+
 #### Craftolio - A Portfolio Builder
 A clean, customizable portfolio builder that lets users showcase their work with ease. Designed with a structured layout and modern UI, Craftolio helps developers present their projects, skills, and experience in an elegant, professional format — all without complex setup.
-Tech Used: HTML, CSS (Tailwind), JavaScript
+**Tech Used**: HTML, CSS (Tailwind), JavaScript
 
 📂 [View Project Repository](https://github.com/Harshitpant12/Craftolio-Portfolio_Builder)
 
