@@ -98,6 +98,7 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
 **Tech Used:** Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
+🌐 [Visit Now](https://we-der-now.vercel.app/)
 
 ---
 
