@@ -93,12 +93,13 @@ A clean, customizable portfolio builder that lets users showcase their work with
 An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
 **Tech Used:** HTML, CSS, JavaScript  
 📂 [View Project Repository](https://github.com/Harshitpant12/Wedernow)
+🌐 [Visit Now](https://we-der-now.vercel.app/)
 
 #### Forest Fire Detection using Deep Learning  
 Detects and classifies forest fire regions using Convolutional Neural Networks (CNNs) to support early detection and response systems.  
 **Tech Used:** Python, TensorFlow, Keras, OpenCV, Scikit-learn  
 📂 [View Project Repository](https://github.com/Harshitpant12/Forest-Fire-Detection) 
-🌐 [Visit Now](https://we-der-now.vercel.app/)
+
 
 ---
 
