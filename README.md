@@ -83,11 +83,18 @@ Features:
 
 📂 [View Project Repository](https://github.com/Harshitpant12/RunIt)
 
-#### Craftolio - A Portfolio Builder
-A clean, customizable portfolio builder that lets users showcase their work with ease. Designed with a structured layout and modern UI, Craftolio helps developers present their projects, skills, and experience in an elegant, professional format — all without complex setup.
-**Tech Used**: HTML, CSS (Tailwind), JavaScript
+### NoteZipper – Full-Stack Note-Taking Application
+A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
+**Tech Used**: React.js, Node.js, Express.js, MongoDB
+Features:
+- Full-stack architecture with React frontend and Node.js + Express backend
+- RESTful APIs for creating, reading, updating, and deleting notes
+- Axios used on the frontend for seamless communication with backend APIs
+- Backend structured using Express routes and controllers
+- MongoDB for efficient and scalable data storage
+- Clean, responsive UI for easy note management
 
-📂 [View Project Repository](https://github.com/Harshitpant12/Craftolio-Portfolio_Builder)
+📂 [View Project Repository](https://github.com/Harshitpant12/NoteZipper)
 
 #### WeDerNow – Real-Time Weather Dashboard  
 An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
