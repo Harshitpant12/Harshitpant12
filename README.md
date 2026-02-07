@@ -116,7 +116,7 @@ Detects and classifies forest fire regions using Convolutional Neural Networks (
 </p>
 <br/> -->
 <p align ="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harshitpant12&theme=gruvbox-duo&border_radius=7&background=128%2C43CEA2%2C185A9D&excludeDaysLabel=764BA2&border=667EEA" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com/?user=harshitpant12" />
 </p>
 <br/>
 <p align ="center">
