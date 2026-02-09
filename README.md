@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me  
 🎓 I'm pursuing **B.Tech in Computer Science & Engineering** from *Nanhi Pari Seemant Engineering Institute, Uttarakhand* (Batch 2026).  
-💡 I’m passionate about **Software Development, and Full-Stack Development**.  
-💡 Currently focusing on DSA (Arrays).  
-🧠 Currently working on projects like **Craftolio - A Portfolio Builder Website**, **Weather Website - WeDerNow**.  
+💡 I’m passionate about **Software Development, and Full-Stack Development**.
+🧠 Currently working on projects like **Chummy - A Chat Application**, **RunIt - An Online Coding IDE**.  
 🚀 Always exploring new technologies and building real-world solutions.  
 
 ---
