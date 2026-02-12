@@ -94,6 +94,7 @@ Features:
 - Clean, responsive UI for easy note management
 
 📂 [View Project Repository](https://github.com/Harshitpant12/NoteZipper)
+🌐 [Visit Now](https://notezipper-g8e3.onrender.com/)
 
 #### WeDerNow – Real-Time Weather Dashboard  
 An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
