@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
-#### RunIt – Online Coding Environment (IDE)
+#### RunIt – An Online Coding Environment (IDE)
 A powerful, browser-based coding environment that allows users to write, run, and test code instantly without any local setup. RunIt supports multiple programming languages and provides a smooth, editor-like experience using modern tools — making it ideal for practice, learning, and quick experimentation.
 **Tech Used**: HTML, CSS, JavaScript, React.js
 Features:
