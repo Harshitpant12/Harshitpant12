@@ -106,6 +106,7 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 <p align ="center">
 <img src="https://streak-stats.demolab.com/?user=harshitpant12" />
 </p>
+
 ---
 
 
