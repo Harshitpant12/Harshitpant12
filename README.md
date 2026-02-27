@@ -64,17 +64,6 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
-#### RunIt – An Online Coding Environment (IDE)
-A powerful, browser-based coding environment that allows users to write, run, and test code instantly without any local setup. RunIt supports multiple programming languages and provides a smooth, editor-like experience using modern tools — making it ideal for practice, learning, and quick experimentation.
-**Tech Used**: HTML, CSS, JavaScript, React.js
-Features:
- - Supports 4 languages: Python, C++, Java, JavaScript
- - Code editor powered by CodeMirror
- - Real-time code execution using Judge0 API
- - Clean, responsive UI for a seamless coding experience
-
-📂 [View Project Repository](https://github.com/Harshitpant12/RunIt)
-
 ### NoteZipper – Full-Stack Note-Taking Application
 A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
 **Tech Used**: React.js, Node.js, Express.js, MongoDB
