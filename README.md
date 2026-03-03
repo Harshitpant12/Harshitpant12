@@ -103,7 +103,7 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-pant-310587236/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshitpant12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:harshpant778@gmail.com">
