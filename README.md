@@ -64,6 +64,20 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
+### VantaWear – Serverless MERN E-Commerce Architecture
+VantaWear is a premium, full-stack e-commerce platform built with the MERN stack. Designed with a brutalist aesthetic, it features secure JWT authentication, real-time Stripe payment webhooks, an interactive admin analytics dashboard, and a serverless architecture deployed on Vercel's edge network.
+**Tech Used**: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Stripe API, JSON Web Tokens, Vite, Vercel Serverless
+Features:
+- **Serverless Architecture**: Deployed as an optimized monorepo on Vercel utilizing Serverless Functions and custom routing rules.
+- **Fault-Tolerant Checkout**: Integrated Stripe Elements with background webhook verification to ensure orders are created even if the client disconnects.
+- **Advanced Authentication**: Built a custom JWT system with secure, cross-domain cookies utilizing reverse proxy configurations.
+- **Real Time Admin Analytics**: Implemented a protected dashboard using Recharts to visualize revenue flow and track live order statuses.
+- **State Management**: Utilized React Context API for global cart state and user session persistence across the application.
+- **Responsive UI/UX**: Built a mobile-first, highly accessible frontend utilizing Tailwind CSS for a premium, heavy-weight streetwear aesthetic.
+
+📂 [View Project Repository](https://github.com/Harshitpant12/VantaWear)
+🌐 [Visit Now](https://vantawear.vercel.app/)
+
 ### NoteZipper – Full-Stack Note-Taking Application
 A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
 **Tech Used**: React.js, Node.js, Express.js, MongoDB
