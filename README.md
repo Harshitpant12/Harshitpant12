@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me  
 🎓 I'm pursuing **B.Tech in Computer Science & Engineering** from *Nanhi Pari Seemant Engineering Institute, Uttarakhand* (Batch 2026).  
 💡 I’m passionate about **Software Development, and Full-Stack Development**.
-🧠 Currently working on projects like **Chummy - A Chat Application**, **RunIt - An Online Coding IDE**.  
+🧠 Currently working on projects like **VantaWear - Premium Minimal Streetwear**, **Chummy - A Chat Application** and **NoteZipper - Note management Application**.
 🚀 Always exploring new technologies and building real-world solutions.  
 
 ---
