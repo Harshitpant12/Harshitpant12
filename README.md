@@ -106,9 +106,7 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 <br/> -->
-<p align ="center">
-<img src="https://streak-stats.demolab.com/?user=harshitpant12" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=harshitpant12&theme=tokyonight&hide_border=false)
 
 ---
 
