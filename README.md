@@ -86,22 +86,22 @@ Chummy is a full-stack real-time chat platform built using the MERN stack, desig
 
 ### Features
 
-**Real-Time Messaging:**  
+- **Real-Time Messaging:**  
 Implemented instant bidirectional communication using Socket.io, allowing users to send and receive messages without page refresh.
 
-**Secure Authentication:**  
+- **Secure Authentication:**  
 Built JWT-based authentication with HTTP-only cookies to securely manage user sessions and protect private routes.
 
-**Online User Presence:**  
+- **Online User Presence:**  
 Tracks active users in real time and displays online/offline status using WebSocket connections.
 
-**Media Sharing:**  
+- **Media Sharing:**  
 Integrated Cloudinary to enable users to send images in chats with optimized storage and delivery.
 
-**Global State Management:**  
+- **Global State Management:**  
 Used Zustand to efficiently manage global states such as user sessions, conversations, and message updates.
 
-**Responsive Chat Interface:**  
+- **Responsive Chat Interface:**  
 Developed a clean, mobile-friendly UI using Tailwind CSS with modern chat layouts and smooth user interactions.
 
 📂 **View Project Repository**  
