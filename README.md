@@ -104,8 +104,8 @@ Used Zustand to efficiently manage global states such as user sessions, conversa
 - **Responsive Chat Interface:**  
 Developed a clean, mobile-friendly UI using Tailwind CSS with modern chat layouts and smooth user interactions.
 
-📂 **View Project Repository**  
-🌐 **Visit Live Project**
+📂 [View Project Repository](https://github.com/Harshitpant12/chummy-chat)  
+🌐 [Visit Now](https://chummy.onrender.com)
 
 ### NoteZipper – Full-Stack Note-Taking Application
 A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
