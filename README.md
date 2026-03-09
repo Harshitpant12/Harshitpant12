@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 ### VantaWear – Serverless MERN E-Commerce Architecture
 VantaWear is a premium, full-stack e-commerce platform built with the MERN stack. Designed with a brutalist aesthetic, it features secure JWT authentication, real-time Stripe payment webhooks, an interactive admin analytics dashboard, and a serverless architecture deployed on Vercel's edge network.
 **Tech Used**: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Stripe API, JSON Web Tokens, Vite, Vercel Serverless
-Features:
+
+### Features
+
 - **Serverless Architecture**: Deployed as an optimized monorepo on Vercel utilizing Serverless Functions and custom routing rules.
 - **Fault-Tolerant Checkout**: Integrated Stripe Elements with background webhook verification to ensure orders are created even if the client disconnects.
 - **Advanced Authentication**: Built a custom JWT system with secure, cross-domain cookies utilizing reverse proxy configurations.
@@ -88,19 +90,14 @@ Chummy is a full-stack real-time chat platform built using the MERN stack, desig
 
 - **Real-Time Messaging:**  
 Implemented instant bidirectional communication using Socket.io, allowing users to send and receive messages without page refresh.
-
 - **Secure Authentication:**  
 Built JWT-based authentication with HTTP-only cookies to securely manage user sessions and protect private routes.
-
 - **Online User Presence:**  
 Tracks active users in real time and displays online/offline status using WebSocket connections.
-
 - **Media Sharing:**  
 Integrated Cloudinary to enable users to send images in chats with optimized storage and delivery.
-
 - **Global State Management:**  
 Used Zustand to efficiently manage global states such as user sessions, conversations, and message updates.
-
 - **Responsive Chat Interface:**  
 Developed a clean, mobile-friendly UI using Tailwind CSS with modern chat layouts and smooth user interactions.
 
@@ -110,7 +107,9 @@ Developed a clean, mobile-friendly UI using Tailwind CSS with modern chat layout
 ### NoteZipper – Full-Stack Note-Taking Application
 A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
 **Tech Used**: React.js, Node.js, Express.js, MongoDB
-Features:
+
+### Features
+
 - Full-stack architecture with React frontend and Node.js + Express backend
 - RESTful APIs for creating, reading, updating, and deleting notes
 - Axios used on the frontend for seamless communication with backend APIs
@@ -131,10 +130,6 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 ---
 
 ### 📊 GitHub Stats  
-<!-- <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Harshitpant12&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=harshitpant12&theme=tokyonight&hide_border=false)
 
 ---
