@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 ### VantaWear – Serverless MERN E-Commerce Architecture
 VantaWear is a premium, full-stack e-commerce platform built with the MERN stack. Designed with a brutalist aesthetic, it features secure JWT authentication, real-time Stripe payment webhooks, an interactive admin analytics dashboard, and a serverless architecture deployed on Vercel's edge network.
+
 **Tech Used**: MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Stripe API, JSON Web Tokens, Vite, Vercel Serverless
 
 ### Features
