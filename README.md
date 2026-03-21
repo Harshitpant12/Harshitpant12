@@ -108,7 +108,7 @@ Developed a clean, mobile-friendly UI using Tailwind CSS with modern chat layout
 ### NoteZipper – Full-Stack Note-Taking Application
 A modern, full-stack note-taking web application that allows users to create, edit, organize, and manage their notes efficiently. NoteZipper provides a smooth and intuitive user experience with secure data handling and real-time interactions between the frontend and backend.
 
-**Tech Used**: React.js, Node.js, Express.js, MongoDB
+**Tech Used**: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUi
 
 ### Features
 
