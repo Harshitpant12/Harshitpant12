@@ -132,7 +132,7 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
 ---
 
 ### 📊 GitHub Stats  
-![](https://nirzak-streak-stats.vercel.app/?user=harshitpant12&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=harshitpant12&theme=tokyonight&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 
