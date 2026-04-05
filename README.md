@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack Developer</h3>
 <p align="center">"Turning ideas into code and challenges into opportunities 🚀"</p>
-<p align="center"><a href="https://harshitpant.vercel.app">Check Out My Portfolio!</a></p>
+<p align="center"><a target="_blank" href="https://harshitpant.vercel.app">Check Out My Portfolio!</a></p>
 
 ---
 
