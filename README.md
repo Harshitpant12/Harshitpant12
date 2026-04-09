@@ -87,7 +87,7 @@ VantaWear is a premium, full-stack e-commerce platform built with the MERN stack
 
 Chummy is a full-stack real-time chat platform built using the MERN stack, designed for seamless communication between users. The application features secure authentication, instant messaging powered by WebSockets, and a modern responsive interface. It focuses on delivering fast, scalable, and user-friendly messaging with persistent conversations and smooth UI interactions.
 
-**Tech Used:** MongoDB, Express.js, React.js, Node.js, Socket.io, JWT, Tailwind CSS, Zustand, Axios, Cloudinary
+**Tech Used:** MongoDB, Express.js, React.js, Node.js, Socket.io, JSON Web Tokens, Tailwind CSS, Zustand, Axios, Cloudinary
 
 ### Features
 
