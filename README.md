@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack Developer</h3>
 <p align="center">"Turning ideas into code and challenges into opportunities 🚀"</p>
-<p align="center"><a target="_blank" href="https://harshitpant.vercel.app">Check Out My Portfolio!</a></p>
+<p align="center"><a target="_blank" href="https://harshitpant.vercel.app" style="color:black" >Check Out My Portfolio!</a></p>
 
 ---
 
 ### 👨‍💻 About Me  
 🎓 I'm pursuing **B.Tech in Computer Science & Engineering** from *Nanhi Pari Seemant Engineering Institute, Uttarakhand* (Batch 2026).  
 💡 I’m passionate about **Software Development, and Full-Stack Development**.
-🧠 Currently working on projects like **VantaWear - Premium Minimal Streetwear**, **Chummy - A Chat Application** and **NoteZipper - Note management Application**.
+🧠 Currently working on projects like **VantaWear - Premium Minimal Streetwear**, **Chummy - A Real-time Chat Application** and **NoteZipper - Note management Application**.
 🚀 Always exploring new technologies and building real-world solutions.  
 
 ---
