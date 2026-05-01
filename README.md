@@ -168,6 +168,9 @@ An intuitive, web-based dashboard that pulls live weather data for any city and 
   <a href="https://github.com/Harshitpant12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+ <a href="https://leetcode.com/u/harshitpant_1" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
