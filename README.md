@@ -66,6 +66,22 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
+### SkillSync - AI-Powered ATS Optimizer & Microservices Architecture
+
+**SkillSync** is a full-stack SaaS platform designed to calculate Applicant Tracking System (ATS) compatibility scores. Utilizing a decoupled microservices architecture, it isolates a primary MERN-stack server from a dedicated Python NLP engine to process compute-heavy document parsing and cosine-similarity algorithms without blocking the main event loop.
+
+**Tech Used:** MongoDB, Express.js, React.js, Node.js, Python (Flask), spaCy, scikit-learn, Google Gemini API, Tailwind CSS, Google OAuth 2.0, JSON Web Tokens, Vercel, Render
+
+**Features**
+* **Microservices Architecture:** Independently deployed Node.js REST API on Vercel and a Python/Flask NLP engine on Render for optimized CPU load balancing.
+* **Advanced NLP Pipeline:** Leverages `pdfminer.six` for high-fidelity text extraction, utilizing `spaCy` and `scikit-learn` to calculate vector similarities between resumes and job descriptions in under 15 seconds.
+* **Enterprise-Grade Authentication:** Built a robust JWT system with silent refresh interceptors, cross-domain HTTP-only cookies, and seamless Google OAuth 2.0 integration via Google Identity Services.
+* **Context-Aware AI Suggestions:** Integrated the Google Gemini API to dynamically generate targeted resume improvement suggestions based on the NLP engine's output.
+* **Dynamic Client Dashboard:** Engineered a responsive React/Vite frontend using Tailwind CSS and Framer Motion, featuring drag-and-drop file uploads and silent background service wake-ups to mask cold-start latency.
+* **High-Performance Routing:** Load-tested using Apache JMeter, optimizing CORS configurations and payload routing to maintain sub-400ms average response times under concurrent loads.
+
+📂 [View Project Repository](https://github.com/Harshitpant12/skillsync) | 🌐 [Visit Now](https://skillsync-official.vercel.app)
+
 ### VantaWear – Serverless MERN E-Commerce Architecture
 VantaWear is a premium, full-stack e-commerce platform built with the MERN stack. Designed with a brutalist aesthetic, it features secure JWT authentication, real-time Stripe payment webhooks, an interactive admin analytics dashboard, and a serverless architecture deployed on Vercel's edge network.
 
