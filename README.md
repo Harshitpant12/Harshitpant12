@@ -140,12 +140,6 @@ A modern, full-stack note-taking web application that allows users to create, ed
 📂 [View Project Repository](https://github.com/Harshitpant12/NoteZipper)
 🌐 [Visit Now](https://notezipper-g8e3.onrender.com/)
 
-#### WeDerNow – Real-Time Weather Dashboard  
-An intuitive, web-based dashboard that pulls live weather data for any city and presents it through sleek, interactive visuals — designed to help users quickly understand current conditions.  
-**Tech Used:** HTML, CSS, JavaScript, Axios
-📂 [View Project Repository](https://github.com/Harshitpant12/Wedernow)
-🌐 [Visit Now](https://we-der-now.vercel.app/)
-
 
 ---
 
