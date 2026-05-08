@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Featured Projects  
 
-### SkillSync - AI-Powered ATS Optimizer & Microservices Architecture
+### SkillSync - NLP Driven ATS Matching Engine & Scoring Platform
 
 **SkillSync** is a full-stack SaaS platform designed to calculate Applicant Tracking System (ATS) compatibility scores. Utilizing a decoupled microservices architecture, it isolates a primary MERN-stack server from a dedicated Python NLP engine to process compute-heavy document parsing and cosine-similarity algorithms without blocking the main event loop.
 
