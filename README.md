@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring Software Developer | Full Stack Engineer | Problem Solver</h3>
 
 <p align="center">
-  <i>"Turning ideas into code and challenges into opportunities 🚀"</i>
+  <i>"Turning ideas into code and challenges into opportunities"</i>
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://harshitpant.vercel.app"><b>🌐 Check Out My Portfolio</b></a>
+  <a target="_blank" href="https://harshitpant.vercel.app"><b>Check Out My Portfolio</b></a>
 </p>
 
 ---
@@ -54,6 +54,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
