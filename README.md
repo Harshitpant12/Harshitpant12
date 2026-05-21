@@ -60,7 +60,7 @@
 
 ### 🚀 Featured Projects  
 
-#### [SkillSync](https://skillsync-official.vercel.app) — NLP-Driven ATS Matching Engine & Scoring Platform
+#### [SkillSync](https://skillsync-official.vercel.app) - NLP-Driven ATS Matching Engine & Scoring Platform
 A full-stack SaaS platform designed to calculate Applicant Tracking System (ATS) compatibility scores. Utilizing a decoupled microservices architecture, it isolates a primary MERN-stack server from a dedicated Python NLP engine to process compute-heavy document parsing and cosine-similarity algorithms without blocking the main event loop.
 * **Microservices Architecture:** Independently deployed Node.js REST API on Vercel and a Python/Flask NLP engine on Render for optimized CPU load balancing.
 * **Advanced NLP Pipeline:** Leverages `pdfminer.six` for high-fidelity text extraction, utilizing `spaCy` and `scikit-learn` to calculate vector similarities between resumes and job descriptions in under 15 seconds.
@@ -73,7 +73,7 @@ A full-stack SaaS platform designed to calculate Applicant Tracking System (ATS)
 
 <br/>
 
-#### [VantaWear](https://vantawear.vercel.app/) — Serverless MERN E-Commerce Architecture
+#### [VantaWear](https://vantawear.vercel.app/) - Serverless MERN E-Commerce Architecture
 A premium, full-stack e-commerce platform built with a brutalist aesthetic. Designed for seamless UX, it features secure authentication, real-time webhooks, an interactive admin analytics dashboard, and a serverless architecture deployed on Vercel's edge network.
 * **Serverless Architecture:** Deployed as an optimized monorepo on Vercel utilizing Serverless Functions and custom routing rules.
 * **Fault-Tolerant Checkout:** Integrated Stripe Elements with background webhook verification to ensure orders are reliably processed even during client disconnects.
@@ -85,7 +85,7 @@ A premium, full-stack e-commerce platform built with a brutalist aesthetic. Desi
 
 <br/>
 
-#### [Chummy](https://chummy.onrender.com) — Real-Time Social Chat Platform
+#### [Chummy](https://chummy.onrender.com) - Real-Time Social Chat Platform
 A full-stack instant messaging platform focused on delivering fast, scalable, and user-friendly communication with persistent conversations and clean UI interactions.
 * **Real-Time Messaging:** Implemented bidirectional communication using Socket.io for seamless messaging without page refreshes.
 * **Live Status & Media:** Tracks active user presence via WebSockets and integrates Cloudinary for optimized image storage and delivery.
