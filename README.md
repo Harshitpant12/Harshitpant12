@@ -105,16 +105,6 @@ A modern web application built to create, edit, organize, and securely manage pe
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=harshitpant12&theme=tokyonight&border_radius=10&short_numbers=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 ### 🤝 Connect With Me  
 
 <p align="center">
