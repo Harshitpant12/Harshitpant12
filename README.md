@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Pant</h1>
-<h3 align="center">Aspiring Software Developer | Full Stack Engineer | Problem Solver</h3>
+<h3 align="center">Software Developer | Full Stack Engineer | Problem Solver</h3>
 
 <p align="center">
   <i>"Turning ideas into code and challenges into opportunities"</i>
@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me  
 
-🎓 Pursuing a **B.Tech in Computer Science & Engineering** (Batch 2026).  
-💡 Passionate about **Full-Stack Web Development (MERN)** and building production-grade, highly scalable applications.  
-🧠 Currently sharpening my skills in **Data Structures, Algorithms (DSA), and Problem Solving** to write clean, optimized code.  
+🎓 **B.Tech in Computer Science & Engineering** (2022-26).
+💡 Passionate about **Full-Stack Web Development** and building production-grade, highly scalable applications.  
+🧠 Currently sharpening my skills in **Data Structures, Algorithms (DSA), and Problem Solving**.  
 🚀 Actively building real-world solutions like **VantaWear**, **SkillSync**, and **Chummy** using decoupled microservices and serverless architectures.  
 🌱 Always eager to explore new technologies, tackle complex architectural challenges, and optimize backend performance.
 
