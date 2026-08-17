@@ -7,6 +7,7 @@
 
 <p align="center">
   <a target="_blank" href="https://harshitpant.vercel.app"><b>Check Out My Portfolio</b></a>
+  <a target="_blank" href="https://linkedin/com/in/harshitpant12">My LinkedIn</a>
 </p>
 
 ---
